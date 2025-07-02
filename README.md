@@ -6,7 +6,7 @@ A web-based face recognition system built using FastAPI, OpenCV (ORB features), 
 
 📸 Demo
 
-https://user-images.githubusercontent.com/demo.gif (Optional: Add a screen recording GIF here)
+https://github.com/Coolstrok/FaceRecognitionUnlockApp/blob/main/demoFaceUnlockApp.mp4
 
 ⸻
 
