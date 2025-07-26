@@ -93,12 +93,6 @@ uvicorn app.main:app --reload
 
 🙏 Credits
 	•	Instructor: Kraken
-	•	Student: [Your Name Here]
+	•	Student: [Sebastián Ramírez]
 	•	Framework: FastAPI
 	•	Vision Library: OpenCV
-
-⸻
-
-📄 License
-
-MIT License - Feel free to use, modify, and share.
